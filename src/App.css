@@ -1,0 +1,14 @@
+
+*{
+  overflow-x: hidden;
+  overflow-y: hidden;
+}
+
+.custom-scrollbar::-webkit-scrollbar {
+  display: none; 
+}
+
+.custom-scrollbar {
+  -ms-overflow-style: none; 
+  scrollbar-width: none;
+}
