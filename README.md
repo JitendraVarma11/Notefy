@@ -71,8 +71,12 @@ The **Notefy Notes Application** is a user-friendly web app designed to create, 
    ```bash
    npm run dev
    ```
-
+   
 4. Open your browser and visit:
    ```
    http://localhost:5173
    ```
+
+   
+5. **Demostration Video**:
+   [Click here to watch](https://drive.google.com/file/d/1VzroFhkwV3YhZofGFCpWHn7Awfn1TGPl/view?usp=drive_link)   
